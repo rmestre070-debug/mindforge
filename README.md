@@ -1,2 +1,2 @@
-# mindforge
-A free learning universe for curious minds of all ages.   The portal blends education, games, exploration, and community to support gifted individuals, autodidacts, and hidden geniuses. No tests, no labels — just a safe space to learn, play, and grow.
+# DevPrompt Studio
+DevPrompt Studio is a developer‑grade prompt engineering workspace that generates precise, structured prompts for building apps, systems, and AI‑driven workflows. It provides multi‑mode generation, stack‑aware customization, collaboration tools, and export‑ready output formats designed for real software development.
